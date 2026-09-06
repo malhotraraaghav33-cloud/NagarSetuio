@@ -1,0 +1,10 @@
+{
+  "name": "NagarSetu",
+  "description": "A civic problem reporting platform for citizens and students across India to report local civic issues, track resolution on interactive Leaflet maps, and prioritize community concerns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
